@@ -5,3 +5,5 @@ google-auth-oauthlib
 paddleocr
 Pillow
 plotly
+qrcode
+reportlab
