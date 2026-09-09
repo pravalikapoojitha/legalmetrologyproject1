@@ -1,3 +1,7 @@
 streamlit
-google-cloud-vision
-pillow
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+paddleocr
+paddlepaddle
+Pillow
